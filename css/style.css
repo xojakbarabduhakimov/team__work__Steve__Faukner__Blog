@@ -36,6 +36,9 @@ body {
 
 .cards--top--left {
   margin-top: 10px;
+  width: 602px;
+height: 61px;
+flex-shrink: 0;
 }
 
 .cards--top--left--h4 {
@@ -201,3 +204,13 @@ body {
   top: 100px;
 }
 /* cards end */
+
+/* cards__2 start */
+
+.section{
+ background: rgb(247, 247, 247);
+ margin-top: 112px;
+}
+.cards__2{
+ 
+}
