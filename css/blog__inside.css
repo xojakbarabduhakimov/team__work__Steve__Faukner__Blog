@@ -20,9 +20,28 @@ img {
   display: block;
   width: 100%;
 }
+.section{
+  content: "";
+  height: 100vh;
+  background-image: url(./images/section-img.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .container{
     width: 100%;
     max-width: 1160px;
     margin: 0 auto;
     padding: 0 30px;
+}
+.hero__h1{
+  margin-left: 300px;
+  width: 524px;
+  height: 195px;
+  color: #FFF;
+font-family: Poppins;
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: 65px;
+letter-spacing: 0.2px;
 }
