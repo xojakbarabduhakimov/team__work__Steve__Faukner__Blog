@@ -49,6 +49,7 @@ line-height: 65px;
 letter-spacing: 0.2px;
 }
 .ford-right{
+  
   display: flex;
 }
 .ford-right__p{
@@ -133,6 +134,40 @@ border-radius: 16px 0px 0px 16px;
 }
 .fual-left__p{
   width: 516px;
+  color: #5A7184;
+  font-family: Open Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
+.car-img{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.features__h2{
+  margin-bottom: 50px;
+  width: 670px;
+  color: #223B74;
+  font-family: Poppins;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 100px; 
+  letter-spacing: 0.2px;
+}
+.features__p{
+  margin-bottom: 30px;
+  width: 1093.959px;
+  color: #5A7184;
+  font-family: Open Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
+.features__p-2{
+  width: 1093.959px;
   color: #5A7184;
   font-family: Open Sans;
   font-size: 16px;
